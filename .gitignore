@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.Rhistory
+run*.log
+.env
+# podaci iz baze se ne objavljuju; sveska 01 ih ponovo povlači
+data/*.csv
